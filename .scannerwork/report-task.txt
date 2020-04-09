@@ -1,0 +1,7 @@
+organization=space-game-web-petri
+projectKey=petri-peltoniemi_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6595
+dashboardUrl=https://sonarcloud.io/dashboard?id=petri-peltoniemi_mslearn-tailspin-spacegame-web
+ceTaskId=AXFZgz5XqIWi-IRInihR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFZgz5XqIWi-IRInihR
